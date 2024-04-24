@@ -1,8 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
-- 👋 <em>Hello World</em>, I’m <strong>Ademola</strong>
+# 👋 <em>Hello</em>, I’m <strong>Ademola Ademeso</strong>
+a Computer Science student at Babcock University and SWE student in the ALX SE program.
 - 👀 I’m interested in Data Science and Full Stack dev
 - 🌱 I’m currently learning ML using python and web dev using react and node.js
+- 💻 I practice DSA on leetcode using C++ because of its OOP concepts
 - 📫 How to reach me:
 - <ul>
   <li><a href="https://ademolaademeso.vercel.app/">Portfolio</a></li>
